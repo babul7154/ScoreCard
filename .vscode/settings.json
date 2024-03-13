@@ -1,0 +1,17 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+
+  "editor.fontFamily": "Cascadia Mono Light  , 'Courier New', monospace", //cascadia Mono Light
+  "editor.fontLigatures": "true",
+  "editor.fontWeight": "bold",
+  "editor.suggest.snippetsPreventQuickSuggestions": true,
+
+  "python.analysis.completeFunctionParens": true,
+  "editor.formatOnType": true,
+  "python.analysis.inlayHints.variableTypes": false,
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestArgs": ["."],
+
+  "files.insertFinalNewline": true
+}
