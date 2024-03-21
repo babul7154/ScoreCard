@@ -27,4 +27,14 @@ def read_line(filename, n):
         string: return nth line of the file
     """
     f = open(filename)
-    file_content = f.read()
+    file_content = f.read().splitlines()
+    if len(file_content) < n:
+        return "None"
+    else:
+        return file_content[n - 1]
+
+
+p = "location of file"
+
+
+print(read_line(filename=p, n=3))
