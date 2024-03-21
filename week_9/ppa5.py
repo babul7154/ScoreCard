@@ -35,3 +35,16 @@ def get_matrix(filename):
     """
     f = open(filename)
     file_content = csv.reader(f)
+    mat = list()
+    for row in file_content:
+        # don't append row directly to mat,row is actually list of strings.
+        # can simply use matrix = [list(map(int, row)) for row in csv.reader(f)]
+        tem = list()
+        for x in row:
+            tem.append(int(x))
+        mat.append(tem)
+    return mat
+
+
+p = "C:\\Users\\IITM\\Documents\\iitm python\\ncsv.csv"
+print(get_matrix(filename=p))
