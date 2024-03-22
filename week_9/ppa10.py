@@ -36,7 +36,7 @@ def number_grid(m, n):
     Return:
         None
     """
-    f = open("numbergrid.csv", "w")
+    f = open("numgrid.csv", "w")
     file_content = csv.writer(f)
     newlst = list()
     p = 0
