@@ -1,5 +1,5 @@
 Roll no:13		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Gopi		Gender:M		CityTown:Madurai
 Physics:73
 Chemistry:89

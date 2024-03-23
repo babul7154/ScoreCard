@@ -1,5 +1,5 @@
 Roll no:15		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Goutami		Gender:F		CityTown:Theni
 Physics:58
 Chemistry:90

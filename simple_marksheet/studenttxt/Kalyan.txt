@@ -1,5 +1,5 @@
 Roll no:20		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Kalyan		Gender:M		CityTown:Vellore
 Physics:68
 Chemistry:91

@@ -1,5 +1,5 @@
 Roll no:28		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Nisha		Gender:F		CityTown:Madurai
 Physics:83
 Chemistry:83

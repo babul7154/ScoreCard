@@ -1,5 +1,5 @@
 Roll no:14		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Sophia		Gender:F		CityTown:Trichy
 Physics:62
 Chemistry:93

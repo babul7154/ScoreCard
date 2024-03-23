@@ -1,5 +1,5 @@
 Roll no:0		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Bhuvanesh		Gender:M		CityTown:Erode
 Physics:64
 Chemistry:78

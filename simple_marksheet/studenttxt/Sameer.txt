@@ -1,5 +1,5 @@
 Roll no:6		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Sameer		Gender:M		CityTown:Ambur
 Physics:82
 Chemistry:87

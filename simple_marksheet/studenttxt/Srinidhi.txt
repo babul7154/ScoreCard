@@ -1,5 +1,5 @@
 Roll no:12		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Srinidhi		Gender:F		CityTown:Chennai
 Physics:64
 Chemistry:71

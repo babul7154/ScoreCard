@@ -1,5 +1,5 @@
 Roll no:27		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Jagan		Gender:M		CityTown:Madurai
 Physics:76
 Chemistry:52

@@ -1,5 +1,5 @@
 Roll no:1		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Harish		Gender:M		CityTown:Salem
 Physics:45
 Chemistry:91

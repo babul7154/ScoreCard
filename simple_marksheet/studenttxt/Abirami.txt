@@ -1,5 +1,5 @@
 Roll no:18		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Abirami		Gender:F		CityTown:Erode
 Physics:92
 Chemistry:97

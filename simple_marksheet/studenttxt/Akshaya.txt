@@ -1,5 +1,5 @@
 Roll no:5		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Akshaya		Gender:F		CityTown:Chennai
 Physics:92
 Chemistry:84

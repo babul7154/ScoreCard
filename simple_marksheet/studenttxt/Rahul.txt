@@ -1,5 +1,5 @@
 Roll no:11		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Rahul		Gender:M		CityTown:Bengaluru
 Physics:92
 Chemistry:92

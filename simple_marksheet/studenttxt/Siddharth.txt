@@ -1,5 +1,5 @@
 Roll no:24		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Siddharth		Gender:M		CityTown:Madurai
 Physics:72
 Chemistry:58

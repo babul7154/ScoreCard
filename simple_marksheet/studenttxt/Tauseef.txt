@@ -1,5 +1,5 @@
 Roll no:16		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Tauseef		Gender:M		CityTown:Trichy
 Physics:86
 Chemistry:43

@@ -1,5 +1,5 @@
 Roll no:9		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Clarence		Gender:M		CityTown:Bengaluru
 Physics:88
 Chemistry:73

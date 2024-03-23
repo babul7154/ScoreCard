@@ -1,5 +1,5 @@
 Roll no:7		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Aditya		Gender:M		CityTown:Vellore
 Physics:92
 Chemistry:76

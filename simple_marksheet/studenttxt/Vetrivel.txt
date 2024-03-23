@@ -1,5 +1,5 @@
 Roll no:19		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Vetrivel		Gender:M		CityTown:Trichy
 Physics:78
 Chemistry:62

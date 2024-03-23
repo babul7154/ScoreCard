@@ -1,5 +1,5 @@
 Roll no:8		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Surya		Gender:M		CityTown:Bengaluru
 Physics:64
 Chemistry:51

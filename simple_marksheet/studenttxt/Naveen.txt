@@ -1,5 +1,5 @@
 Roll no:29		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Naveen		Gender:M		CityTown:Vellore
 Physics:66
 Chemistry:81

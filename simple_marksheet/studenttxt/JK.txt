@@ -1,5 +1,5 @@
 Roll no:26		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:JK		Gender:M		CityTown:Chennai
 Physics:71
 Chemistry:82

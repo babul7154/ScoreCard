@@ -1,5 +1,5 @@
 Roll no:21		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Monika		Gender:F		CityTown:Bengaluru
 Physics:69
 Chemistry:74

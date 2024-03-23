@@ -1,5 +1,5 @@
 Roll no:17		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Arshad		Gender:M		CityTown:Chennai
 Physics:81
 Chemistry:67

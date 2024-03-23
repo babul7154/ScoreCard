@@ -1,5 +1,5 @@
 Roll no:3		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Rida		Gender:F		CityTown:Chennai
 Physics:53
 Chemistry:78

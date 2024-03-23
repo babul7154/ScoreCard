@@ -1,5 +1,5 @@
 Roll no:2		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Shashank		Gender:M		CityTown:Chennai
 Physics:54
 Chemistry:77
