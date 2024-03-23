@@ -1,0 +1,10 @@
+Roll no:1		 ScoreCard for 1st Term
+**************************************************
+Your name:Harish		Gender:M		CityTown:Salem
+Physics:45
+Chemistry:91
+Mathematics:62
+Total Marks:198
+Percentage:66.0
+
+You have got :C grade

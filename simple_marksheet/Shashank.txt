@@ -1,0 +1,10 @@
+Roll no:2		 ScoreCard for 1st Term
+**************************************************
+Your name:Shashank		Gender:M		CityTown:Chennai
+Physics:54
+Chemistry:77
+Mathematics:57
+Total Marks:188
+Percentage:62.67
+
+You have got :C grade

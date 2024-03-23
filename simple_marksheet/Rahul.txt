@@ -1,0 +1,10 @@
+Roll no:11		 ScoreCard for 1st Term
+**************************************************
+Your name:Rahul		Gender:M		CityTown:Bengaluru
+Physics:92
+Chemistry:92
+Mathematics:97
+Total Marks:281
+Percentage:93.67
+
+You have got :A+ grade

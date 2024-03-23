@@ -1,0 +1,10 @@
+Roll no:19		 ScoreCard for 1st Term
+**************************************************
+Your name:Vetrivel		Gender:M		CityTown:Trichy
+Physics:78
+Chemistry:62
+Mathematics:56
+Total Marks:196
+Percentage:65.33
+
+You have got :C grade
