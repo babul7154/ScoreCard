@@ -1,10 +1,11 @@
 Roll no:5		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Akshaya		Gender:F		CityTown:Chennai
 Physics:92
 Chemistry:84
 Mathematics:71
 Total Marks:247
 Percentage:82.33
+Percentile:83.33 
 
 You have got :A grade

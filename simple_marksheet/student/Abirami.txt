@@ -1,10 +1,11 @@
 Roll no:18		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Abirami		Gender:F		CityTown:Erode
 Physics:92
 Chemistry:97
 Mathematics:72
 Total Marks:261
 Percentage:87.0
+Percentile:89.47 
 
 You have got :A grade

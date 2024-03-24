@@ -1,10 +1,11 @@
 Roll no:4		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Ritika		Gender:F		CityTown:Madurai
 Physics:64
 Chemistry:89
 Mathematics:87
 Total Marks:240
 Percentage:80.0
+Percentile:80.0 
 
 You have got :A grade

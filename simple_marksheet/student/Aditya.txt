@@ -1,10 +1,11 @@
 Roll no:7		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Aditya		Gender:M		CityTown:Vellore
 Physics:92
 Chemistry:76
 Mathematics:84
 Total Marks:252
 Percentage:84.0
+Percentile:87.5 
 
 You have got :A grade
