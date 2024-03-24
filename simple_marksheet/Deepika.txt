@@ -1,11 +1,10 @@
 Roll no:23		 ScoreCard for 1st Term
-**********************************************************
+**************************************************
 Your name:Deepika		Gender:F		CityTown:Bengaluru
 Physics:91
 Chemistry:88
 Mathematics:97
 Total Marks:276
 Percentage:92.0
-Percentile:91.67 
 
 You have got :A+ grade

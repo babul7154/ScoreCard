@@ -1,11 +1,10 @@
 Roll no:12		 ScoreCard for 1st Term
-**********************************************************
+**************************************************
 Your name:Srinidhi		Gender:F		CityTown:Chennai
 Physics:64
 Chemistry:71
 Mathematics:52
 Total Marks:187
 Percentage:62.33
-Percentile:7.69 
 
 You have got :C grade

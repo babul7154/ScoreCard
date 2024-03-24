@@ -1,11 +1,10 @@
 Roll no:0		 ScoreCard for 1st Term
-**********************************************************
+**************************************************
 Your name:Bhuvanesh		Gender:M		CityTown:Erode
 Physics:64
 Chemistry:78
 Mathematics:68
 Total Marks:210
 Percentage:70.0
-Percentile:0.0 
 
 You have got :B grade

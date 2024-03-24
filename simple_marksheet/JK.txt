@@ -1,11 +1,10 @@
 Roll no:26		 ScoreCard for 1st Term
-**********************************************************
+**************************************************
 Your name:JK		Gender:M		CityTown:Chennai
 Physics:71
 Chemistry:82
 Mathematics:74
 Total Marks:227
 Percentage:75.67
-Percentile:55.56 
 
 You have got :B grade

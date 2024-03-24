@@ -1,11 +1,10 @@
 Roll no:29		 ScoreCard for 1st Term
-**********************************************************
+**************************************************
 Your name:Naveen		Gender:M		CityTown:Vellore
 Physics:66
 Chemistry:81
 Mathematics:72
 Total Marks:219
 Percentage:73.0
-Percentile:43.33 
 
 You have got :B grade

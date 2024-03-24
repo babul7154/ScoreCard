@@ -1,11 +1,10 @@
 Roll no:8		 ScoreCard for 1st Term
-**********************************************************
+**************************************************
 Your name:Surya		Gender:M		CityTown:Bengaluru
 Physics:64
 Chemistry:51
 Mathematics:74
 Total Marks:189
 Percentage:63.0
-Percentile:22.22 
 
 You have got :C grade
