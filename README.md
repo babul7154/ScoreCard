@@ -1,11 +1,2 @@
-College-Indian Institute of Technology,chennai
-Semester-Foundational
-==============================================
-"Don't code to learn but learn to code"
-==============================================
-Table of content:
-Note:This repos doesn't contain week_1 to week_6 chapters and any scripts
-Week 8:
-Introduction to the week and introduction to recursion
-Recursion,sorting recursion
-Binary Search and its implementation
+Converting Scores.csv file into multiple txt files. Text files contains all the information about student like marks in each subject, Gender, roll no, City,Percentage and Percentile result.
+Note:This is not my complete code work,but I learned from IITM student corner portal,thanks to Janani D who wrote most of the code(I have added percentile function and some improvement on text file content) .
