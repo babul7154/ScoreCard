@@ -1,10 +1,11 @@
 Roll no:28		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Nisha		Gender:F		CityTown:Madurai
 Physics:83
 Chemistry:83
 Mathematics:74
 Total Marks:240
 Percentage:80.0
+Percentile:62.07 
 
 You have got :A grade

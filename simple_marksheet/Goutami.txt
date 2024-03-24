@@ -1,10 +1,11 @@
 Roll no:15		 ScoreCard for 1st Term
-**************************************************
+**********************************************************
 Your name:Goutami		Gender:F		CityTown:Theni
 Physics:58
 Chemistry:90
 Mathematics:76
 Total Marks:224
 Percentage:74.67
+Percentile:43.75 
 
 You have got :B grade
