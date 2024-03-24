@@ -6,5 +6,6 @@ Chemistry:74
 Mathematics:78
 Total Marks:221
 Percentage:73.67
+Percentile:45.45 
 
 You have got :B grade

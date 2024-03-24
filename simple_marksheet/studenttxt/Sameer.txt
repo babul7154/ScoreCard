@@ -6,5 +6,6 @@ Chemistry:87
 Mathematics:81
 Total Marks:250
 Percentage:83.33
+Percentile:85.71 
 
 You have got :A grade

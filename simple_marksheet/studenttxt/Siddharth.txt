@@ -6,5 +6,6 @@ Chemistry:58
 Mathematics:44
 Total Marks:174
 Percentage:58.0
+Percentile:4.0 
 
 You have got :D grade

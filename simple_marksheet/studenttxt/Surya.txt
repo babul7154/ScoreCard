@@ -6,5 +6,6 @@ Chemistry:51
 Mathematics:74
 Total Marks:189
 Percentage:63.0
+Percentile:22.22 
 
 You have got :C grade

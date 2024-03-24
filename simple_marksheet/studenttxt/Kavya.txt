@@ -6,5 +6,6 @@ Chemistry:68
 Mathematics:64
 Total Marks:204
 Percentage:68.0
+Percentile:36.36 
 
 You have got :C grade
