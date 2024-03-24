@@ -1,0 +1,10 @@
+Roll no:10		 ScoreCard for 1st Term
+**************************************************
+Your name:Kavya		Gender:F		CityTown:Chennai
+Physics:72
+Chemistry:68
+Mathematics:64
+Total Marks:204
+Percentage:68.0
+
+You have got :C grade

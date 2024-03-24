@@ -1,0 +1,10 @@
+Roll no:22		 ScoreCard for 1st Term
+**************************************************
+Your name:Priya		Gender:F		CityTown:Nagercoil
+Physics:62
+Chemistry:57
+Mathematics:62
+Total Marks:181
+Percentage:60.33
+
+You have got :C grade

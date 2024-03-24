@@ -1,0 +1,10 @@
+Roll no:25		 ScoreCard for 1st Term
+**************************************************
+Your name:Geeta		Gender:F		CityTown:Chennai
+Physics:75
+Chemistry:92
+Mathematics:87
+Total Marks:254
+Percentage:84.67
+
+You have got :A grade
