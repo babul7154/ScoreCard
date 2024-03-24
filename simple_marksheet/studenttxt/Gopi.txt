@@ -1,0 +1,11 @@
+Roll no:13		 ScoreCard for 1st Term
+**********************************************************
+Your name:Gopi		Gender:M		CityTown:Madurai
+Physics:73
+Chemistry:89
+Mathematics:65
+Total Marks:227
+Percentage:75.67
+Percentile:57.14 
+
+You have got :B grade

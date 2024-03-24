@@ -1,0 +1,11 @@
+Roll no:14		 ScoreCard for 1st Term
+**********************************************************
+Your name:Sophia		Gender:F		CityTown:Trichy
+Physics:62
+Chemistry:93
+Mathematics:89
+Total Marks:244
+Percentage:81.33
+Percentile:66.67 
+
+You have got :A grade
